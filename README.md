@@ -1,5 +1,7 @@
-#GOMEZ_BLoC Finals Exam Submission Repository
-##Most functions now working using BLoC programming
+# GOMEZ_BLoC Finals Exam Submission Repository
+## Most functions now working using BLoC programming
+
+*** personal message from me to you :) ***
 Thank you, Mr. Formentera, for your time and effort in teaching us the world of Mobile Application Development :)
 See you around!
 
