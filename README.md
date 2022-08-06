@@ -1,3 +1,8 @@
+#GOMEZ_BLoC Finals Exam Submission Repository
+##Most functions now working using BLoC programming
+Thank you, Mr. Formentera, for your time and effort in teaching us the world of Mobile Application Development :)
+See you around!
+
 # bloc_finals_exam
 
 A finals exam to test students skills on applying the BloC architecture in this task management app.
